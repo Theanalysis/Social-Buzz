@@ -1,6 +1,7 @@
-Tittle: Adeyemo Adekunle
+Title: Adeyemo Adekunle
 logo:
 Show download: FALSE
-Remote_theme: pages-themes/minmal
+remote theme: pages-themes/time-machine@v0.2.0 
 plugins:
-jekyllremote-theme
+
+jekyll-remote-theme
